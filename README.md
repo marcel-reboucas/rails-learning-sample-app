@@ -5,7 +5,7 @@ This is the sample application for
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
-Production Example available at: https://aqueous-citadel-42702.herokuapp.com
+Production example available [here](https://aqueous-citadel-42702.herokuapp.com).
 
 ## License
 
